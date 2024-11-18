@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there people
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=catppuccin)
 
 <!--
 **mattemello/mattemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
