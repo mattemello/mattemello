@@ -1,6 +1,6 @@
 
 ## Hi there people
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=radical)
+<div style="aling: center;"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=radical) </div>
 
 - I'm currently working at a web game, as personal project -> ![puzzle-game][https://github.com/mattemello/puzzle-game]
 - Always learning something new.
