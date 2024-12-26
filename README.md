@@ -7,11 +7,12 @@
   />
 </picture>-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=radical)-->
+- Always want to learn something new.
+  - Learning now -> cryptography 
 
-- I'm currently working at a web game, as personal project -> [puzzle-game](https://github.com/mattemello/puzzle-game)
-- Always learning something new.
-
-
+- Project:
+  - Last personal project -> [puzzle-game](https://github.com/mattemello/puzzle-game)
+  - A terminal credit tracker -> [balanceTerminal](https://github.com/mattemello/balanceTerminal)
 
 <!--
 **mattemello/mattemello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
