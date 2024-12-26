@@ -10,6 +10,8 @@
 - Always want to learn something new.
   - Learning now -> cryptography 
 
+---
+
 - Project:
   - Last personal project -> [puzzle-game](https://github.com/mattemello/puzzle-game)
   - A terminal credit tracker -> [balanceTerminal](https://github.com/mattemello/balanceTerminal)
