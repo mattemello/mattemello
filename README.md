@@ -8,7 +8,8 @@
 </picture>-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=radical)-->
 - Always want to learn something new.
-  - Learning now -> cryptography 
+  - Learning -> Networking
+  - Learned some cryptography 
 
 ---
 
