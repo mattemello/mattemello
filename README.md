@@ -14,7 +14,8 @@
 ---
 
 - Project:
-  - Last personal project -> [puzzle-game](https://github.com/mattemello/puzzle-game)
+  - Last project -> [ascii Image](https://github.com/mattemello/asciiImage)
+  - Maze game -> [puzzle-game](https://github.com/mattemello/puzzle-game)
   - A terminal credit tracker -> [balanceTerminal](https://github.com/mattemello/balanceTerminal)
 
 <!--
