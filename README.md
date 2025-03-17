@@ -23,9 +23,10 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mattemello&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mattemello&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattemello&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mattemello&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mattemello&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mattemello&theme=catppuccin_mocha&hide_border=false)
+
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mattemello&theme=catppuccin_mocha&no-frame=true&no-bg=true&margin-w=4)
