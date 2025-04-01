@@ -9,18 +9,10 @@
 </picture>-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattemello&show_icons=true&theme=radical)-->
 # Hi there people
-## Always want to learn something new.
-  - Learning -> Cybersecurity
-  - Learned some cryptography 
+I enjoi programming since the first time I written a hello word message. Sance then I always wanted to become better at it and Wanted to learn 
+something new every time. I enjoy write backend and tool, but I'm open to do frontend stuff too.
 
----
-
-## Project:
-  - Last project -> [ascii Image](https://github.com/mattemello/asciiImage) (currently work on it)
-  - Maze game -> [puzzle-game](https://github.com/mattemello/puzzle-game)
-  - A terminal credit tracker -> [balanceTerminal](https://github.com/mattemello/balanceTerminal)
-
-
+I also learn something about cybersecurity. I really like it.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mattemello&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false) 
